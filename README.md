@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Find my latest work and links to my [YouTube](https://www.youtube.com/c/UpamanyuDas), [Twitter](https://twitter.com/cloudstudio), etc. on my website: [www.upamanyu.in.](https://upamanyu.in).
+Find my latest work and links to my [YouTube](https://www.youtube.com/c/UpamanyuDas), [Twitter](https://twitter.com/cloudstudio), etc. on my website: [www.upamanyu.in](https://upamanyu.in).
